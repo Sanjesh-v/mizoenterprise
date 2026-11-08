@@ -1,0 +1,7 @@
+﻿enterprise_id,village,industry,product,monthly_capacity_units,market_channel
+E001,Baktawng,Furniture,Wooden Furniture,100,Local Retail
+E002,Thenzawl,Handloom,Traditional Textiles,80,Local Retail
+E003,Reiek,Food Processing,Turmeric Products,150,Local Distribution
+E004,Baktawng,Furniture,Wooden Tables,60,Direct Orders
+E005,Thenzawl,Handloom,Traditional Shawls,50,Local Retail
+E006,Reiek,Food Processing,Turmeric Powder,120,Local Distribution
